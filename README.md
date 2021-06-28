@@ -2,6 +2,6 @@
 Trabalho de análise de dados do CAGED
 
 ## Integrantes
-Brendo Bubela Vidal
-Christian Dantas Germano
-Mariana dos Santos Araujo
+Brendo Bubela Vidal <br />
+Christian Dantas Germano <br />
+Mariana dos Santos Araujo <br />
